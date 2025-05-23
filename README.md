@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lakshay Khokhar</h1>
 
-<h3 align="center">Passionate MERN developer building high-performance, user-friendly web applications with a focus on clean UI and scalable architecture.</h3>
+<h3 align="center">Passionate Frontend developer building high-performance, user-friendly web applications with a focus on clean UI and scalable architecture.</h3>
 
 - 🔭 Currently working on: **MERN Stack Projects**
 - 🌱 Currently learning: **Advanced Next.js & AI Integrations**
 - 👯 Open to collaborate on: **Full-Stack & Frontend Projects**
 - 💬 Ask me about: **Frontend Architecture, State Management, and Next.js**
 - 🧩 Portfolio: [Portfolio](https://lakshaykhokhar.vercel.app)
-- 📄 Resume: [Resume](https://lakshaykhokhar.vercel.app/resume)
+- 📄 Resume: [Resume](https://lakshaykhokhar.vercel.app/assets/LakshayResume.pdf)
 
 ---
 
