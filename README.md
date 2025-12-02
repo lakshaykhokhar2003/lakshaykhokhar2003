@@ -24,5 +24,5 @@
 
 📌 **Check out my latest full-stack project → StayHere**  
 A modern vacation rental platform inspired by Airbnb, built with Next.js and Firebase, featuring Stripe payments, real-time booking, image uploads, and email notifications. 
-🔗 [Live Site]([https://stayhere-lakshay.vercel.app](https://lakshay-vacation-rental.netlify.app/))  
-🔗 [GitHub Repository]([https://github.com/lakshaykhokhar2003/stayhere](https://github.com/lakshaykhokhar2003/vacation-rental))
+🔗 [Live Site](https://lakshay-vacation-rental.vercel.app/)  
+🔗 [GitHub Repository](https://github.com/lakshaykhokhar2003/vacation-rental)
